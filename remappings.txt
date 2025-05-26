@@ -1,0 +1,13 @@
+@chainlink/contracts-ccip/=lib/chainlink-local/lib/ccip/contracts/
+@chainlink/contracts/=lib/chainlink-local/lib/chainlink-brownie-contracts/contracts/
+@chainlink-brownie/contracts=lib/chainlink-brownie-contracts/contracts/src/v0.8
+@chainlink-local/src/=lib/chainlink-local/src/
+@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/
+ccip/=lib/ccip/
+chainlink-brownie-contracts/=lib/chainlink-local/lib/chainlink-brownie-contracts/contracts/src/v0.6/vendor/@arbitrum/nitro-contracts/src/
+chainlink-local/=lib/chainlink-local/src/
+ds-test/=lib/chainlink-local/lib/forge-std/lib/ds-test/src/
+erc4626-tests/=lib/openzeppelin-contracts/lib/erc4626-tests/
+forge-std/=lib/forge-std/src/
+halmos-cheatcodes/=lib/openzeppelin-contracts/lib/halmos-cheatcodes/src/
+openzeppelin-contracts/=lib/openzeppelin-contracts/

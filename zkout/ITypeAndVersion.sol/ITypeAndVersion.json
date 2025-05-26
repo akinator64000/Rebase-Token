@@ -1,0 +1,1 @@
+{"abi":[{"type":"function","name":"typeAndVersion","inputs":[],"outputs":[{"name":"","type":"string","internalType":"string"}],"stateMutability":"pure"}],"storageLayout":{"storage":[],"types":{}},"userdoc":{},"devdoc":{},"factoryDependencies":{},"id":17}
