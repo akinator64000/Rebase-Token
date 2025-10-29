@@ -1,4 +1,4 @@
-# Cross-chain Rebase Token
+c# Cross-chain Rebase Token
 
 1. A protocol that allow user to deposit into a vault and in return, receiver rebase tokens that represents their underlying balance
 2. Rebase token -> balanceOf is dynamic to show the changing balance with time
